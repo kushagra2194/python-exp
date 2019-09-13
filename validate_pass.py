@@ -25,9 +25,12 @@ def pass_validate(password):
 		flag = 0
 		print("Valid Password") 
 		print(password) 
+		return(flag)
 		break
 	  
 	if flag ==-1: 
 	    print("Not a Valid Password") 
 
-pass_validate("Thi$i$@te$t")
+a = pass_validate("Thi$i$@te$t123")
+
+print(a)

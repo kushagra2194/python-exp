@@ -30,4 +30,4 @@ def username_check(username):
 	if flag ==-1: 
 	    print("Not a Valid username") 
 
-username_check("TestUsername123")
+username_check("TestUsername$123")

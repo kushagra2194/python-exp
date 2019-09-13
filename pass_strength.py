@@ -31,4 +31,4 @@ def pass_strength(password):
 	if flag ==-1: 
 	    print("Not a Valid Password") 
 
-pass_strength("Thi$i$@te$t")
+pass_strength("Thi$i$@te$t123")
